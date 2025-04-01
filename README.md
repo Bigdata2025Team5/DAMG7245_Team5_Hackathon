@@ -55,3 +55,4 @@ Essentially, the system incorporates **historical stock data**, **real-time news
 
 ## Architecture Diagram
 
+![Financial Data with Agents (https://github.com/Bigdata2025Team5/DAMG7245_Team5_Hackathon/blob/133320e1ef302905800c8d9a2d1b53f309175bf3/Architecture_diagram.png)
