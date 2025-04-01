@@ -54,5 +54,4 @@ Essentially, the system incorporates **historical stock data**, **real-time news
 ---
 
 ## Architecture Diagram
-
-
+https://github.com/Bigdata2025Team5/DAMG7245_Team5_Hackathon/blob/071ede68b9022db628507e5067eea722d70685e6/Architecture_diagram.png
